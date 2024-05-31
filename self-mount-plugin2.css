@@ -1,6 +1,5 @@
 .self-mount-plugin {
-    font-family: 'BebasNeueRegular';
-    src: url('https://cdn.uncc.edu/its/cws/d07/themes/uncc_epsilon/fonts/Bebas/BebasNeueRegular.otf');
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .self-mount-plugin div.card {
@@ -11,8 +10,7 @@
 }
 
 .self-mount-plugin div.header-wrapper h2.h3 {
-    font-family: 'BebasNeueBold';
-    src: url('https://cdn.uncc.edu/its/cws/d07/themes/uncc_epsilon/fonts/Bebas/BebasNeueBold.otf');
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-weight: inherit;
     background-color: unset;
     color: inherit;
